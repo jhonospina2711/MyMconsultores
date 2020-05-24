@@ -1,3 +1,3 @@
-<?php 
-requiere_once('index.htm');
+<?php
+require_once('index.htm');
 ?>
